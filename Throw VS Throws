@@ -6,3 +6,13 @@
   2. Throw is used in the method signature                   2. with method signature
   3. Throw is followed by instance/object                    3. throws is followed by class
   4. Throw can not be used with multiple Exception           4 we can declare multiple exception
+
+
+
+  lifecycle of thread
+
+   new state()       new =>       when you create object of thread and before invocation of start().
+   Runnable()        runnable =>  when start method is invoked but thread scheduler is not selected as running thread
+   Running ()         running =>  when thread scheduler is selected as running thread.
+  Blocking()/WAit()   Blocking => when thread is waiting or sleep that time thread is in blocking state
+  Dead()              died =>     after exit of run method

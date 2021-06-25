@@ -2,7 +2,7 @@ package abstraction;
 
 public abstract class Sport {
     Sport(){
-        System.out.println("in constanat");
+        System.out.println("in constant");
     }
 
 
