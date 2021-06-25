@@ -11,6 +11,7 @@ public class MyMarkerClass implements MarkerInterface {
     public static void main(String[] args) {
         MyMarkerClass obj = new MyMarkerClass();
 
+
         if(obj instanceof MarkerInterface){
             obj.show();
         }
