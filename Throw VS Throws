@@ -2,10 +2,10 @@
 
 
          Throw                                                          Throws
-  1. Throw is used to throw the exception                    1.to declare exception
+  1. Throw is used to throw the exception                    1. to declare exception
   2. Throw is used in the method signature                   2. with method signature
   3. Throw is followed by instance/object                    3. throws is followed by class
-  4. Throw can not be used with multiple Exception           4 we can declare multiple exception
+  4. Throw can not be used with multiple Exception           4. we can declare multiple exception
 
 
 
